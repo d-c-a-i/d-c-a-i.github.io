@@ -1,7 +1,1 @@
----
-title: "About"
-permalink: "/about/"
-layout: page
----
-
-## Home
+# My Website
